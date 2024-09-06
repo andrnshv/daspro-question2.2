@@ -1,0 +1,1 @@
+This is a prove that the folder can be push to GitHub
